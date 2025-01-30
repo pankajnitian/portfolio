@@ -12,7 +12,7 @@ const About = () => {
       I am Pankaj, a passionate software developer with expertise in full-stack development, DevOps, and embedded systems. I enjoy building innovative projects and continuously learning new technologies.
     </p>
     <p className="text-lg sm:text-xl leading-relaxed mt-4">
-      Currently pursuing my Bachelor's in Electronics and Communication Engineering, I bring a unique perspective to problem-solving and software development.
+      Currently pursuing my Bachelor's in Electrical Engineering, I bring a unique perspective to problem-solving and software development.
     </p>
   </div>
 </section>
